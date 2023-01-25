@@ -1,3 +1,5 @@
 ## Simple UI of ecommerce webpage and add to cart function using React.
 
-[screen-capture Ecommerce.webm](https://user-images.githubusercontent.com/81660066/214575503-8a8aed59-9dd2-4cf7-a67b-06c499206e6f.webm)
+
+https://user-images.githubusercontent.com/81660066/214656175-a7cfb213-48c8-4fc8-b6f0-499c493e7a97.mp4
+
